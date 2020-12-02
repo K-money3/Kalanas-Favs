@@ -1,0 +1,43 @@
+h1 {
+    padding: 20px;
+    margin: 15px;
+}
+
+img {
+    width: 800px;
+    height: 900px;
+}
+
+.movie {
+    font-size: 40px;
+    text-align: center;
+    background-color: #03fc9d;
+    border: 50px groove blue;
+    font-family: 'Nerko One', cursive;
+
+
+}
+
+.Shoes {
+    font-size: 40px;
+    text-align: center;
+    background-color: #fc03b1 ;
+  border: 50px groove #0377fc;
+    font-family: 'Nerko One', cursive;
+font-family: 'Piedra', cursive;
+}
+.hair{  font-size: 40px;
+    text-align: center;
+    background-color: #fc9403 ;
+    border: 50px groove #0377fc; 
+font-family: 'Lobster', cursive;}
+.clothes{ font-size: 40px;
+    text-align: center;
+    background-color: #b103fc ;
+    border: 50px groove #0377fc;
+font-family: 'Abril Fatface', cursive;}
+ .game{font-size: 40px;
+    text-align: center;
+    background-color: #312636 ;
+border: 50px groove #0377fc;
+font-family: 'Pirata One', cursive;}
